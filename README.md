@@ -1,6 +1,6 @@
-# Frigate - NVR With Realtime Object Detection for IP Cameras
+# NVR With Realtime Object Detection for IP Cameras
 
-Frigate is a complete and local Network Video Recorder (NVR) designed to integrate seamlessly with smart home systems. It offers AI-powered real-time object detection for IP cameras, providing efficient and accurate video monitoring. This system emphasizes performance and resource optimization, making it an ideal solution for users seeking a reliable and responsive video recording platform.
+This is a complete and local Network Video Recorder (NVR) designed to integrate seamlessly with smart home systems. It offers AI-powered real-time object detection for IP cameras, providing efficient and accurate video monitoring. This system emphasizes performance and resource optimization, making it an ideal solution for users seeking a reliable and responsive video recording platform.
 
 ## Features
 
@@ -20,5 +20,3 @@ Frigate is a complete and local Network Video Recorder (NVR) designed to integra
 - **Integration**: Designed for seamless interaction with smart home systems.
 - **Video Formats**: Offers support for common video standards.
 - **Hardware Acceleration**: Optional support for hardware devices like the Google Coral Accelerator.
-
-Frigate is an efficient and scalable solution for those looking to enhance their video surveillance systems with advanced AI capabilities.
