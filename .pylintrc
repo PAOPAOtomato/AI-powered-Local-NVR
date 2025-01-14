@@ -149,9 +149,9 @@ enable=c-extension-no-member
 
 [REPORTS]
 
-# Python expression which should return a score less than or equal to 10. You
+# which contain the n# Python expression which should return a score less than or equal to 10. You
 # have access to the variables 'error', 'warning', 'refactor', and 'convention'
-# which contain the number of messages in each category, as well as 'statement'
+umber of messages in each category, as well as 'statement'
 # which is the total number of statements analyzed. This score is used by the
 # global evaluation report (RP0004).
 evaluation=10.0 - ((float(5 * error + warning + refactor + convention) / statement) * 10)
@@ -263,7 +263,7 @@ signature-mutators=
 
 # This flag controls whether inconsistent-quotes generates a warning when the
 # character used as a quote delimiter is used inconsistently within a module.
-check-quote-consistency=no
+check-quote-consistency=no 
 
 # This flag controls whether the implicit-str-concat should generate a warning
 # on implicit string concatenation in sequences defined over several lines.
